@@ -1,0 +1,255 @@
+TRotateSplitViewTest
+v7
+r0
+t338528029.825887
+cCheck dependencies
+cProcessInfoPlistFile /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app/Info.plist RotateSplitViewTest-Info.plist
+cCompileXIB /Users/nathanaichinger/Desktop/RotateSplitViewTest/iPhone/MainWindow_iPhone.xib
+cCompileXIB /Users/nathanaichinger/Desktop/RotateSplitViewTest/iPad/MainWindow_iPad.xib
+cProcessPCH /var/folders/P9/P9Kmu87MEryYjlgnftH8Ak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RotateSplitViewTest_Prefix-ershovzcetitrgfvksgtfvaacxfv/RotateSplitViewTest_Prefix.pch.gch RotateSplitViewTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/Objects-normal/i386/main.o /Users/nathanaichinger/Desktop/RotateSplitViewTest/Shared/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/Objects-normal/i386/AppDelegate_iPhone.o /Users/nathanaichinger/Desktop/RotateSplitViewTest/iPhone/AppDelegate_iPhone.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/Objects-normal/i386/AppDelegate_iPad.o /Users/nathanaichinger/Desktop/RotateSplitViewTest/iPad/AppDelegate_iPad.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app/RotateSplitViewTest normal i386
+cGenerateDSYMFile /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app.dSYM /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app/RotateSplitViewTest
+cTouch /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/nathanaichinger/Desktop/RotateSplitViewTest/RotateSplitViewTest_Prefix.pch
+c000000004E7D4F6700000000000000CF
+t1316835175
+s207
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/nathanaichinger/Desktop/RotateSplitViewTest/Shared/main.m
+c000000004E7D4F67000000000000017A
+t1316835175
+s378
+i<UIKit/UIKit.h>
+
+N/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app
+t1316835229
+s238
+
+N/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app.dSYM
+t1316835229
+s102
+
+N/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app/Info.plist
+t1316835228
+s959
+
+N/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app/MainWindow_iPad.nib
+t1316835228
+s2284
+
+N/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app/MainWindow_iPhone.nib
+t1316835228
+s2289
+
+N/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app/PkgInfo
+t1316835228
+s8
+
+N/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app/RotateSplitViewTest
+t1316835229
+s17480
+
+N/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/Objects-normal/i386/AppDelegate_iPad.o
+t1316835229
+s48880
+
+N/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/Objects-normal/i386/AppDelegate_iPhone.o
+t1316835229
+s49764
+
+N/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/Objects-normal/i386/RotateSplitViewTest.LinkFileList
+c000000004E7D4F9C00000000000001F4
+t1316835228
+s500
+
+N/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/Objects-normal/i386/main.o
+t1316835229
+s6348
+
+N/Users/nathanaichinger/Desktop/RotateSplitViewTest/iPad/AppDelegate_iPad.h
+c000000004E7D4F670000000000000154
+t1316835175
+s340
+i<UIKit/UIKit.h>
+
+N/Users/nathanaichinger/Desktop/RotateSplitViewTest/iPad/AppDelegate_iPad.m
+c000000004E7D4F6700000000000006BA
+t1316835175
+s1722
+i"AppDelegate_iPad.h"
+
+N/Users/nathanaichinger/Desktop/RotateSplitViewTest/iPad/MainWindow_iPad.xib
+c000000004E7D4F910000000000004AB2
+t1316835217
+s19122
+
+N/Users/nathanaichinger/Desktop/RotateSplitViewTest/iPhone/AppDelegate_iPhone.h
+c000000004E7D4F670000000000000158
+t1316835175
+s344
+i<UIKit/UIKit.h>
+
+N/Users/nathanaichinger/Desktop/RotateSplitViewTest/iPhone/AppDelegate_iPhone.m
+c000000004E7D4F6700000000000009DF
+t1316835175
+s2527
+i"AppDelegate_iPhone.h"
+
+N/Users/nathanaichinger/Desktop/RotateSplitViewTest/iPhone/MainWindow_iPhone.xib
+c000000004E7D4F800000000000004CA5
+t1316835200
+s19621
+
+N/var/folders/P9/P9Kmu87MEryYjlgnftH8Ak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RotateSplitViewTest_Prefix-ershovzcetitrgfvksgtfvaacxfv/RotateSplitViewTest_Prefix.pch.gch
+t1316835229
+s15814064
+
+NRotateSplitViewTest-Info.plist
+c000000004E7D4F670000000000000569
+t1316835175
+s1385
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies338528028#338528028#0(0"0(0#1#0"8656296672#0"0#
+
+CCompileC build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/Objects-normal/i386/AppDelegate_iPad.o /Users/nathanaichinger/Desktop/RotateSplitViewTest/iPad/AppDelegate_iPad.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338528029.711633
+e338528029.783966
+r1
+xCompileC
+xbuild/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/Objects-normal/i386/AppDelegate_iPad.o
+x/Users/nathanaichinger/Desktop/RotateSplitViewTest/iPad/AppDelegate_iPad.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/nathanaichinger/Desktop/RotateSplitViewTest/iPad/AppDelegate_iPad.m338528029#338528029#0(0"0(0#0#74"/Users/nathanaichinger/Desktop/RotateSplitViewTest/iPad/AppDelegate_iPad.m8668114912#2315"    cd /Users/nathanaichinger/Desktop/RotateSplitViewTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/RotateSplitViewTest-generated-files.hmap -I/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/RotateSplitViewTest-own-target-headers.hmap -I/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/RotateSplitViewTest-all-target-headers.hmap -iquote /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/RotateSplitViewTest-project-headers.hmap -F/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator -I/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/include -I/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/DerivedSources/i386 -I/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/DerivedSources -include /var/folders/P9/P9Kmu87MEryYjlgnftH8Ak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RotateSplitViewTest_Prefix-ershovzcetitrgfvksgtfvaacxfv/RotateSplitViewTest_Prefix.pch -c /Users/nathanaichinger/Desktop/RotateSplitViewTest/iPad/AppDelegate_iPad.m -o /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/Objects-normal/i386/AppDelegate_iPad.o0#
+
+CCompileC build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/Objects-normal/i386/AppDelegate_iPhone.o /Users/nathanaichinger/Desktop/RotateSplitViewTest/iPhone/AppDelegate_iPhone.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338528029.622090
+e338528029.711529
+r1
+xCompileC
+xbuild/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/Objects-normal/i386/AppDelegate_iPhone.o
+x/Users/nathanaichinger/Desktop/RotateSplitViewTest/iPhone/AppDelegate_iPhone.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/nathanaichinger/Desktop/RotateSplitViewTest/iPhone/AppDelegate_iPhone.m338528029#338528029#0(0"0(0#0#78"/Users/nathanaichinger/Desktop/RotateSplitViewTest/iPhone/AppDelegate_iPhone.m8672680448#2321"    cd /Users/nathanaichinger/Desktop/RotateSplitViewTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/RotateSplitViewTest-generated-files.hmap -I/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/RotateSplitViewTest-own-target-headers.hmap -I/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/RotateSplitViewTest-all-target-headers.hmap -iquote /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/RotateSplitViewTest-project-headers.hmap -F/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator -I/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/include -I/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/DerivedSources/i386 -I/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/DerivedSources -include /var/folders/P9/P9Kmu87MEryYjlgnftH8Ak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RotateSplitViewTest_Prefix-ershovzcetitrgfvksgtfvaacxfv/RotateSplitViewTest_Prefix.pch -c /Users/nathanaichinger/Desktop/RotateSplitViewTest/iPhone/AppDelegate_iPhone.m -o /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/Objects-normal/i386/AppDelegate_iPhone.o0#
+
+CCompileC build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/Objects-normal/i386/main.o /Users/nathanaichinger/Desktop/RotateSplitViewTest/Shared/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s338528029.620548
+e338528029.717291
+r1
+xCompileC
+xbuild/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/Objects-normal/i386/main.o
+x/Users/nathanaichinger/Desktop/RotateSplitViewTest/Shared/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/nathanaichinger/Desktop/RotateSplitViewTest/Shared/main.m338528029#338528029#0(0"0(0#0#64"/Users/nathanaichinger/Desktop/RotateSplitViewTest/Shared/main.m8658853216#2293"    cd /Users/nathanaichinger/Desktop/RotateSplitViewTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/RotateSplitViewTest-generated-files.hmap -I/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/RotateSplitViewTest-own-target-headers.hmap -I/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/RotateSplitViewTest-all-target-headers.hmap -iquote /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/RotateSplitViewTest-project-headers.hmap -F/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator -I/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/include -I/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/DerivedSources/i386 -I/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/DerivedSources -include /var/folders/P9/P9Kmu87MEryYjlgnftH8Ak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RotateSplitViewTest_Prefix-ershovzcetitrgfvksgtfvaacxfv/RotateSplitViewTest_Prefix.pch -c /Users/nathanaichinger/Desktop/RotateSplitViewTest/Shared/main.m -o /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/nathanaichinger/Desktop/RotateSplitViewTest/iPad/MainWindow_iPad.xib
+s338528028.379255
+e338528028.802663
+r1
+xCompileXIB
+x/Users/nathanaichinger/Desktop/RotateSplitViewTest/iPad/MainWindow_iPad.xib
+lSLF07#2@35"CompileXIB iPad/MainWindow_iPad.xib338528028#338528028#0(0"0(0#0#75"/Users/nathanaichinger/Desktop/RotateSplitViewTest/iPad/MainWindow_iPad.xib8667864736#633"    cd /Users/nathanaichinger/Desktop/RotateSplitViewTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app/MainWindow_iPad.nib /Users/nathanaichinger/Desktop/RotateSplitViewTest/iPad/MainWindow_iPad.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/nathanaichinger/Desktop/RotateSplitViewTest/iPhone/MainWindow_iPhone.xib
+s338528028.378520
+e338528028.827302
+r1
+xCompileXIB
+x/Users/nathanaichinger/Desktop/RotateSplitViewTest/iPhone/MainWindow_iPhone.xib
+lSLF07#2@39"CompileXIB iPhone/MainWindow_iPhone.xib338528028#338528028#0(0"0(0#0#79"/Users/nathanaichinger/Desktop/RotateSplitViewTest/iPhone/MainWindow_iPhone.xib8668961472#639"    cd /Users/nathanaichinger/Desktop/RotateSplitViewTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app/MainWindow_iPhone.nib /Users/nathanaichinger/Desktop/RotateSplitViewTest/iPhone/MainWindow_iPhone.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app.dSYM /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app/RotateSplitViewTest
+s338528029.807398
+e338528029.823065
+r1
+xGenerateDSYMFile
+x/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app.dSYM
+x/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app/RotateSplitViewTest
+lSLF07#2@145"GenerateDSYMFile build/Debug-iphonesimulator/RotateSplitViewTest.app.dSYM build/Debug-iphonesimulator/RotateSplitViewTest.app/RotateSplitViewTest338528029#338528029#0(0"0(0#0#122"/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app/RotateSplitViewTest8657339936#455"    cd /Users/nathanaichinger/Desktop/RotateSplitViewTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app/RotateSplitViewTest -o /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app.dSYM0#
+
+CLd /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app/RotateSplitViewTest normal i386
+s338528029.784064
+e338528029.807293
+r1
+xLd
+x/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app/RotateSplitViewTest
+xnormal
+xi386
+lSLF07#2@127"Link /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app/RotateSplitViewTest338528029#338528029#0(0"0(0#0#0"8661293376#1020"    cd /Users/nathanaichinger/Desktop/RotateSplitViewTest    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator -F/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator -filelist /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/Objects-normal/i386/RotateSplitViewTest.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app/RotateSplitViewTest0#
+
+CProcessInfoPlistFile /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app/Info.plist RotateSplitViewTest-Info.plist
+s338528028.374065
+e338528028.378437
+r1
+xProcessInfoPlistFile
+x/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app/Info.plist
+xRotateSplitViewTest-Info.plist
+lSLF07#2@38"Process RotateSplitViewTest-Info.plist338528028#338528028#0(0"0(0#0#81"/Users/nathanaichinger/Desktop/RotateSplitViewTest/RotateSplitViewTest-Info.plist8663203872#551"    cd /Users/nathanaichinger/Desktop/RotateSplitViewTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility RotateSplitViewTest-Info.plist -genpkginfo /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app/Info.plist0#
+
+CProcessPCH /var/folders/P9/P9Kmu87MEryYjlgnftH8Ak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RotateSplitViewTest_Prefix-ershovzcetitrgfvksgtfvaacxfv/RotateSplitViewTest_Prefix.pch.gch RotateSplitViewTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s338528028.827423
+e338528029.620447
+r1
+xProcessPCH
+x/var/folders/P9/P9Kmu87MEryYjlgnftH8Ak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RotateSplitViewTest_Prefix-ershovzcetitrgfvksgtfvaacxfv/RotateSplitViewTest_Prefix.pch.gch
+xRotateSplitViewTest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile RotateSplitViewTest_Prefix.pch338528028#338528029#0(0"0(0#0#81"/Users/nathanaichinger/Desktop/RotateSplitViewTest/RotateSplitViewTest_Prefix.pch8660904736#2154"    cd /Users/nathanaichinger/Desktop/RotateSplitViewTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/RotateSplitViewTest-generated-files.hmap -I/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/RotateSplitViewTest-own-target-headers.hmap -I/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/RotateSplitViewTest-all-target-headers.hmap -iquote /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/RotateSplitViewTest-project-headers.hmap -F/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator -I/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/include -I/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/DerivedSources/i386 -I/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/RotateSplitViewTest.build/Debug-iphonesimulator/RotateSplitViewTest.build/DerivedSources -c /Users/nathanaichinger/Desktop/RotateSplitViewTest/RotateSplitViewTest_Prefix.pch -o /var/folders/P9/P9Kmu87MEryYjlgnftH8Ak+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RotateSplitViewTest_Prefix-ershovzcetitrgfvksgtfvaacxfv/RotateSplitViewTest_Prefix.pch.gch0#
+
+CTouch /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app
+s338528029.823153
+e338528029.825851
+r1
+xTouch
+x/Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app
+lSLF07#2@108"Touch /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app338528029#338528029#0(0"0(0#0#0"8655620672#314"    cd /Users/nathanaichinger/Desktop/RotateSplitViewTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/nathanaichinger/Desktop/RotateSplitViewTest/build/Debug-iphonesimulator/RotateSplitViewTest.app0#
+
